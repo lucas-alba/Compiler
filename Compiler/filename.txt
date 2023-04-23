@@ -1,0 +1,5 @@
+LET sum = 8
+LET x = 8
+IF sum = 8 THEN
+    PRINT sum, x
+ENDIF
