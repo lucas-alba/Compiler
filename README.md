@@ -3,7 +3,7 @@ CSC 370 Complier Project
 
 ## Assigment 
 
-A. Basic requirement: Designing a compiler for a Simple Programming Language involves creating a software system that can translate code written in the Simple Programming Language (SPL) into machine code that can be executed on a computer. The project would involve:
+Basic requirement: Designing a compiler for a Simple Programming Language involves creating a software system that can translate code written in the Simple Programming Language (SPL) into machine code that can be executed on a computer. The project would involve:
 
 1. Defining the syntax of the SPL, including its basic data types, control structures, and functions.
 2. Implementing a lexical analyzer to tokenize the SPL source code into a stream of tokens.
