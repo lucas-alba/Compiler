@@ -1,4 +1,4 @@
-# Complier
+# compiler
 CSC 370 Complier Project
 
 ## Assigment 
