@@ -1,2 +1,0 @@
-mov eax, sum
-mov t1, eax
