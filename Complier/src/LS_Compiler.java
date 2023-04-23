@@ -3,7 +3,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 
-public class LS_Complier {
+public class LS_Compiler {
 
     static String content = "";
     static int count = 0;
