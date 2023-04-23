@@ -1,0 +1,12 @@
+mov eax, sum
+mov t1, eax
+mov eax, sum
+mov t1, eax
+mov eax, sum
+mov t1, eax
+mov eax, sum
+mov t1, eax
+mov eax, sum
+mov t1, eax
+mov eax, sum
+mov t1, eax
